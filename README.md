@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 📓 Cursando Análise e Desenvolvimento de Sistemas
-- 👨‍💻 Atualmente em busca de um estágio
+- 👨‍💻 Atualmente em busca de estágio
 - 🌱 Aprendendo Java
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
